@@ -1,4 +1,4 @@
-📥 Multi-Site Video/Audio Downloader
+📥 **Multi-Site Video/Audio Downloader**
 
 A simple, efficient, and user-friendly desktop application for downloading video and audio from multiple platforms including YouTube, TikTok, Instagram, Vimeo, Facebook, and many more.
 
@@ -6,10 +6,11 @@ This tool allows users to choose preferred video quality and output format, and 
 
 🖼️ Application Preview
 
-(Insert your screenshot here – e.g.:)
+
+![Xulmi-downloader](https://github.com/user-attachments/assets/4b12f21d-dc09-45af-8ccb-f7b3601b9526)
 
 
-🚀 Features
+**🚀** Features****
 
 ✅ Download videos from multiple platforms
 ✅ Choose video quality (best, 1080p, 720p, 480p, etc.)
@@ -21,7 +22,7 @@ This tool allows users to choose preferred video quality and output format, and 
 ✅ Progress bar & status messages
 ✅ Error handling and user guidance
 
-🧑‍💻 Tech Stack
+**🧑‍💻 Tech Stack**
 Component	Technology Used
 Language	Python
 GUI	Tkinter
@@ -30,7 +31,7 @@ Media Processor	FFmpeg
 📦 Installation & Usage
 🔹 Option 1: Download the Executable (Recommended for Users)
 
-Visit the Releases section and download the latest .exe file:
+**Visit the Releases section and download the latest .exe file:**
 👉 (Link to releases will be added by you)
 
 No installation required — just run the executable!
@@ -51,7 +52,7 @@ pip install tkinter
 Run the Application:
 python downloader.py
 
-🔧 Building a Stand-Alone EXE (Developer Guide)
+**🔧 Building a Stand-Alone EXE (Developer Guide)**
 
 To generate a Windows executable:
 
@@ -60,7 +61,7 @@ pyinstaller --onefile --noconsole --add-binary "ffmpeg.exe;." --add-data "my_pho
 
 The .exe will be created inside the /dist folder.
 
-🧠 How It Works
+**🧠 How It Works**
 
 This application internally uses:
 
@@ -70,14 +71,14 @@ FFmpeg to merge video/audio and convert formats if needed
 
 Custom logic to auto-select the best available stream
 
-🔐 Legal Notice & Disclaimer
+**🔐 Legal Notice & Disclaimer**
 
 This software is intended strictly for personal and educational use.
 
 Users are responsible for ensuring that downloads comply with applicable copyright laws.
 Downloading copyrighted material without permission may violate the terms of service of the content provider.
 
-🙋‍♂️ Author
+**🙋‍♂️ Author**
 
 Developed by: Mohammad Imran Ali
 📍 2025 © All Rights Reserved
@@ -85,7 +86,7 @@ Developed by: Mohammad Imran Ali
 🔗 Connect with me on LinkedIn:
 https://www.linkedin.com/in/mohammad-imran-ali-90772530
 
-⭐ Feedback & Contributions
+**⭐ Feedback & Contributions**
 
 Suggestions, improvements, and feature requests are welcome!
 
