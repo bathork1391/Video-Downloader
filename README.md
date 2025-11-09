@@ -83,8 +83,7 @@ Developed by: Mohammad Imran Ali
 📍 2025 © All Rights Reserved
 
 🔗 Connect with me on LinkedIn:
-https://www.linkedin.com/in/imran-xulmi/
-
+https://www.linkedin.com/in/mohammad-imran-ali-90772530
 ⭐ Feedback & Contributions
 
 Suggestions, improvements, and feature requests are welcome!
