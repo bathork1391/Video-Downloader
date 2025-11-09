@@ -13,13 +13,21 @@ This tool allows users to choose preferred video quality and output format, and 
 **🚀** Features****
 
 ✅ Download videos from multiple platforms
+
 ✅ Choose video quality (best, 1080p, 720p, 480p, etc.)
+
 ✅ Choose video format (WebM, MP4, etc.)
+
 ✅ Download audio-only (e.g., MP3, M4A, OPUS)
+
 ✅ Simple and clean GUI – easy for all users
+
 ✅ Built-in splash screen with branding
+
 ✅ Supports YouTube, TikTok, Instagram, Vimeo, Facebook, Twitter (X) & more
+
 ✅ Progress bar & status messages
+
 ✅ Error handling and user guidance
 
 **🧑‍💻 Tech Stack**
