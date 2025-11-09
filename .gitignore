@@ -1,0 +1,12 @@
+# Ignore build artifacts
+build/
+dist/
+*.spec
+
+# Ignore large binaries
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
+
+# Ignore venv if created later
+venv/
